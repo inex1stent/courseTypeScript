@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "target": "esnext",
+      "module": "CommonJS",
+      "lib": ["ESNext", "DOM"],
+      "allowJs": true,
+      "sourceMap": true,
+      "rootDir": "./src",
+      "removeComments": true,
+      "noEmitOnError": true,
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true 
+    },
+    "include": [
+      "./src"
+    ]
+  }
