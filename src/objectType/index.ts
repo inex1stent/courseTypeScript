@@ -1,4 +1,9 @@
-const objectA: Record<string, unknown> = {
+interface IobjectA {
+    keyA: string,
+    keyB: string,
+}
+
+const objectA: IobjectA = {
     keyA: 'a value',
     keyB: 'b value',
 }
