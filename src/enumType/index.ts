@@ -1,7 +1,7 @@
 enum Colors {
-    Red, //0
-    Blue, // 1
-    Yellow // 2
+    Red = 0, //0
+    Blue = 1, // 1
+    Yellow = 2 // 2
 }
 
 // console.log(Colors);
